@@ -1,0 +1,9 @@
+﻿  CTestDLG.cpp
+  MFC_T1.cpp
+  MFC_T1Doc.cpp
+  MFC_T1View.cpp
+  MainFrm.cpp
+  코드를 생성하고 있습니다...
+CTestDLG.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __thiscall CTestDLG::OnBnClickedButton1(void)" (?OnBnClickedButton1@CTestDLG@@QAEXXZ)
+MFC_T1.obj : error LNK2001: 확인할 수 없는 외부 기호 "protected: void __thiscall CMFCT1App::OnBnClickedButton1(void)" (?OnBnClickedButton1@CMFCT1App@@IAEXXZ)
+C:\Users\KOSTA\source\repos\MFC_T1\Debug\MFC_T1.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
